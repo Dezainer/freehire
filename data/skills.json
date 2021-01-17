@@ -1,0 +1,50 @@
+[
+  {
+    "name": "JavaScript"
+  },
+  {
+    "name": "Java"
+  },
+  {
+    "name": "TypeScript"
+  },
+  {
+    "name": "CoffeeScript"
+  },
+  {
+    "name": "React"
+  },
+  {
+    "name": "Vue"
+  },
+  {
+    "name": "Svelte"
+  },
+  {
+    "name": "Ember"
+  },
+  {
+    "name": "Rails"
+  },
+  {
+    "name": "NodeJs"
+  },
+  {
+    "name": "MongoDB"
+  },
+  {
+    "name": "Postgres SQL"
+  },
+  {
+    "name": "PureScript"
+  },
+  {
+    "name": "Kubernetes"
+  },
+  {
+    "name": "Tailwind"
+  },
+  {
+    "name": "PHP 7"
+  }
+]

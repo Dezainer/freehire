@@ -1,0 +1,61 @@
+[
+  {
+    "id": 0,
+    "name": "Front-End Begginer",
+    "modules": [
+      {
+        "id": 0,
+        "name": "Ilha 1 - HTML",
+        "courses": [
+          {
+            "name": "O Guia Estelar de HTML",
+            "source": "ROCKET SEAT",
+            "link": "https://app.rocketseat.com.br/node/o-guia-estelar-de-html"
+          },
+          {
+            "name": "Formulários de outro planeta",
+            "source": "ROCKET SEAT",
+            "link": "https://app.rocketseat.com.br/node/formularios-de-outro-planeta"
+          },
+          {
+            "name": "HTML Que Faz Sentido para Todos",
+            "source": "ROCKET SEAT",
+            "link": "https://app.rocketseat.com.br/node/html-que-faz-sentido-para-todos"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Ilha 2 - CSS",
+        "courses": [
+          {
+            "name": "O Guia Estelar do CSS",
+            "source": "ROCKET SEAT",
+            "link": "https://app.rocketseat.com.br/node/o-guia-estelar-de-css"
+          },
+          {
+            "name": "🐺 CSS Grid Layout - Curso Completo",
+            "source": "ORIGAMID",
+            "link": "https://www.youtube.com/watch?v=hKXOVD2Yrj8"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Ilha 3 - JS",
+        "courses": [
+          {
+            "name": "O que o JavaScript é capaz de fazer? - Curso JavaScript #01",
+            "source": "CURSO EM VÍDEO",
+            "link": "https://www.youtube.com/watch?v=Ptbk2af68e8"
+          },
+          {
+            "name": "01. Introdução - Mini-curso de TypeScript",
+            "source": "WILLIAN JUSTEN",
+            "link": "https://www.youtube.com/watch?v=mRixno_uE2o&list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_"
+          }
+        ]
+      }
+    ]
+  }
+]
