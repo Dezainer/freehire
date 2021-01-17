@@ -1,3 +1,9 @@
+# Sobre
+
+O projeto foi feito todo local e depois comitado inteiramente para a entrega :shrug:.
+
+------------------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
