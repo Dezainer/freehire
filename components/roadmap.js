@@ -4,7 +4,6 @@ import IslandService from 'services/islandService'
 
 const Roadmap = ({ id, name, modules }) => {
   const islands = IslandService.get()
-  console.log(modules.filter(module => islands[module.id]))
   const completed = modules.filter(module => islands[module.id]).length
 
   return (

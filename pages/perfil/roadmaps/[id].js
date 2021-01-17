@@ -15,6 +15,8 @@ const Roadmap = () => {
   const currentModule = roadmap.modules[tab]
   const [islands, setIslands] = useState({})
   const [loading, setLoading] = useState(false)
+  const completed = islands && roadmap.modules.filter(module => islands[module.id]).length
+  const percentage = completed / roadmap.modules.length * 100
 
   const fetchIslands = () => {
     const islands = IslandService.get()
@@ -42,7 +44,7 @@ const Roadmap = () => {
             {roadmap.name}
           </h1>
           <h2 className='text-base'>
-            <b>60%</b> CONCLUÍDO
+            <b>{percentage.toFixed(0)}%</b> CONCLUÍDO
           </h2>
         </div>
         <div className='flex justify-center pt-6'>
